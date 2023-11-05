@@ -1,0 +1,53 @@
+.first{
+    display: flex;
+    justify-content: center;
+    color:164863;
+    font-size:xx-large;
+    font-family: serif;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 12px;
+    
+}
+/*.side-navbar{
+    
+}
+*/
+
+h1{
+    font-size: 100px;
+    font-family: sans-serif;
+}
+
+
+
+body{
+    background-color: DDF2FD;
+    height: 100%;
+    width: 100%;
+
+}
+
+@media (max-width:1200px){
+    .container{
+        display: flex;
+
+    }
+}
+
+.nav-link{
+    color: 427D9D;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+.nav-link :hover{
+    color: 427D9D;
+    cursor: pointer;
+    background-color: blueviolet;
+    
+
+}
